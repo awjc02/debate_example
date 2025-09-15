@@ -1,0 +1,31 @@
+figure{
+	max-width: 600px
+}
+
+img {
+	max-width: 100%
+}
+
+* {
+	background-color: #ffffff;
+}
+
+.caption-text {
+	color: gray;
+}
+
+h1{
+	text-transform: uppercase;
+}
+
+p{
+	font-family: Georgia, serif;
+}
+
+.dem{
+	color: blue;
+}
+
+.rep{
+	color: red;
+}
